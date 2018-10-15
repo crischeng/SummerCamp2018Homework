@@ -30,8 +30,8 @@
 //
 // This is the GSLAM main API header
 
-#ifndef CPP_STYLE___________VECPARAMENT_H_
-#define CPP_STYLE___________VECPARAMENT_H_
+#ifndef CPP_STYLE___________GSLAM_CORE_VECPARAMENT_H_
+#define CPP_STYLE___________GSLAM_CORE_VECPARAMENT_H_
 
 #include <iomanip>
 #include <iostream>
@@ -112,4 +112,4 @@ class VecParament {
   std::vector<VarType> data;
 };
 
-#endif  // CPP_STYLE___________VECPARAMENT_H_
+#endif  // CPP_STYLE___________GSLAM_CORE_VECPARAMENT_H_
